@@ -62,6 +62,16 @@ Practice **Numerical Linear Algebra**: relaxation methods and faster convergence
 
 ---
 
+### 7. Regular Bipartite Graphs
+
+**Description:**  
+Jupyter Notebook to construct and visualize **regular bipartite graphs** with small examples using Python (NetworkX, Matplotlib).
+
+**Purpose:**  
+Practice **Graph Theory** concepts: combining bipartite structures with regular graphs and exploring them through code and visualization.
+
+---
+
 **Note:**
 These exercises are intended for learning purposes. Do not treat them as professional code. They reflect a beginner's perspective and are useful for practicing basic programming and numerical analysis concepts.
 
