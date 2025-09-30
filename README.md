@@ -71,6 +71,26 @@ A Python program that approximates Pi and Euler's number to 4 decimal places and
 
 ---
 
+### Jacobi Iterative Method (Linear System Solver)
+
+**Description:**
+Python program to solve ( Ax = b ) using the **Jacobi iterative method** for 6×6 and 13×13 matrices.
+
+**Input:**
+
+* Matrix **A**
+* Vector **b**
+* Error tolerance
+
+**Output:**
+
+* Approximate solution vector ( X )
+
+**Purpose:**
+Practice **Numerical Linear Algebra**: iterative methods, convergence, and error control.
+
+---
+
 **Note:**
 These exercises are intended for learning purposes. Do not treat them as professional code. They reflect a beginner's perspective and are useful for practicing basic programming and numerical analysis concepts.
 
