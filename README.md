@@ -52,6 +52,16 @@ Practice **Numerical Linear Algebra**: iterative methods, convergence, and error
 
 ---
 
+### 6. Successive Over-Relaxation (SOR) Method (Linear System Solver)
+
+**Description:**
+Python program to solve ( Ax = b ) using the **SOR iterative method** with optimal relaxation factor ((\omega)) for tridiagonal, symmetric, positive definite matrices.
+
+**Purpose:**
+Practice **Numerical Linear Algebra**: relaxation methods and faster convergence.
+
+---
+
 **Note:**
 These exercises are intended for learning purposes. Do not treat them as professional code. They reflect a beginner's perspective and are useful for practicing basic programming and numerical analysis concepts.
 
