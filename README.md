@@ -10,13 +10,6 @@ Welcome! This repository contains a collection of simple, student-level programm
 **Description:**
 A classic implementation of the Merge Sort algorithm in C++. It demonstrates the divide-and-conquer method for sorting arrays.
 
-**Input:**
-- Size of the array
-- Array elements (integers)
-
-**Output:**
-- Sorted array
-
 **Purpose:**
 - Practice recursion and array manipulation.
 
@@ -25,12 +18,6 @@ A classic implementation of the Merge Sort algorithm in C++. It demonstrates the
 ### 2. Magic Square
 **Description:**
 Generates a magic square for odd-sized matrices using a student-style algorithm. The sum of each row, column, and diagonal is the same.
-
-**Input:**
-- Size of the square (odd number)
-
-**Output:**
-- Printed magic square matrix
 
 **Purpose:**
 - Practice loops, conditionals, and 2D arrays.
@@ -41,14 +28,6 @@ Generates a magic square for odd-sized matrices using a student-style algorithm.
 **Description:**
 Simulates the champagne tower problem. It calculates the amount of liquid in a specific glass after pouring a certain total amount.
 
-**Input:**
-- Total poured amount (float)
-- Row number
-- Glass number in that row
-
-**Output:**
-- Amount in the specified glass
-
 **Purpose:**
 - Practice arrays, nested loops, and simple simulation logic.
 
@@ -58,33 +37,15 @@ Simulates the champagne tower problem. It calculates the amount of liquid in a s
 **Description:**
 A Python program that approximates Pi and Euler's number to 4 decimal places and demonstrates basic error propagation rules.
 
-**Input:**
-- None (values are calculated internally)
-
-**Output:**
-- Approximated values
-- Absolute errors
-- Checks for error propagation rules
-
 **Purpose:**
 - Learn about numerical approximations and error analysis in a student-friendly way.
 
 ---
 
-### Jacobi Iterative Method (Linear System Solver)
+### 5. Jacobi Iterative Method (Linear System Solver)
 
 **Description:**
 Python program to solve ( Ax = b ) using the **Jacobi iterative method** for 6×6 and 13×13 matrices.
-
-**Input:**
-
-* Matrix **A**
-* Vector **b**
-* Error tolerance
-
-**Output:**
-
-* Approximate solution vector ( X )
 
 **Purpose:**
 Practice **Numerical Linear Algebra**: iterative methods, convergence, and error control.
